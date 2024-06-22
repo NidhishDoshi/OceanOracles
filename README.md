@@ -33,7 +33,7 @@ pip install -r requirements.txt
 •	Open Jupyter Notebook on your device.<br/>
 •	Navigate to the repository directory.<br/>
 •	Open and run _Evaluation_answers.ipynb_ to generate predictions for evaluation.csv.<br/>
-•	Open and run _data_1997_1998_predictions.ipynb_ to generate predictions for _data_1997_1998.csv_.<br/>
+•	Open and run _Data_1997_1998_predictions.ipynb_ to generate predictions for _data_1997_1998.csv_.<br/>
 ### 4.	Check the Output:
 •	The predicted SST for _evaluation.csv_ will be available in _evaluation_filled_sst.csv_.<br/>
 •	The predicted SST for _data_1997_1998.csv_ will be available in _data_1997_1998_.<br/>
