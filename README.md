@@ -40,3 +40,5 @@ pip install -r requirements.txt
 ## Notes
 •	Ensure that the _train.csv_, _evaluation.csv_, and _data_1997_1998.csv_ files are in the same directory as the Jupyter Notebooks.<br/>
 •	If you encounter any issues, please refer to the notebook's markdown cells for detailed explanations and troubleshooting tips
+
+_Created in **Twins of the Winds** during the **Summer of Innovation 2024**_
